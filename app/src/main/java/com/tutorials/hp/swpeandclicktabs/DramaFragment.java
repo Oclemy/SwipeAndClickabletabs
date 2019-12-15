@@ -7,9 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by Hp on 3/22/2016.
- */
+
 public class DramaFragment extends Fragment {
     @Nullable
     @Override
